@@ -1,0 +1,8 @@
+gitlab: 
+  group_url: gitlab.test.com/xxxx
+  repositories:
+    - name: test46
+      access_token: xxxxxx
+      directory: C:/git/test46
+promci_access_token: yyy-yyy-yyy-yyy
+
