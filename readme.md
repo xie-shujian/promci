@@ -53,4 +53,3 @@ linux server result
 ```
 tree /etc/test46/
 ```
-zzzzz
