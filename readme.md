@@ -13,11 +13,12 @@ read_api, read_repository, read_registry
 linux server repository directory
 
 # build
+```
 cd C:/workplace/promci
 set GOOS=linux
 set GOARCH=amd64
 go build promci
-
+```
 
 # config file
 /etc/promci/promci.yml
